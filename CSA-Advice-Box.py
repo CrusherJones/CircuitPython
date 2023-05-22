@@ -31,7 +31,7 @@ colors = [ RED, REDDISH, BLONDE, BLACK, BLUE, BLUEY, BLONDE, GREEN, INDIGO]
 
 BS = [
 "FFS. " ,
-"JESUS is this a sentence or are you trying to convey the feeling of running a marathon? "
+"... delete that. "
 ]
 
 GOOD = [
