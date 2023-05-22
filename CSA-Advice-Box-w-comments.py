@@ -70,7 +70,7 @@ while True:
     if gesture == 0x01:
         print("You swiped 'Up' for BS")
         # why a ' there? Because we used "" for the text; can always try the reverse!
-        # print(random.choice(BS)) we use the print command to print to the TERMINAL. We used "#" to grey it out here / nullify it
+        # print(random.choice(BS)) <-- we use the print command to print to the TERMINAL. We used "#" to grey it out here / nullify it
         layout.write(random.choice(BS))
         # Layout will write this to our machine! Make sure you test this in a separate window so you don't have BS (ha!) in your code.
         boardpixel.fill(RED)

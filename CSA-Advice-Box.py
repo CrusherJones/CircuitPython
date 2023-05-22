@@ -40,13 +40,13 @@ GOOD = [
 ]
 
 BAD = [
-"Buy that condo, sure!" ,
-"Invest in pets.com"
+"Buy that condo, sure! " ,
+"Invest in pets.com "
 ]
 
 ODD = [
-"Look I don't even know what month it is, man." ,
-"... I am a fake random machine. How would I know?"
+"Look I don't even know what month it is, man. " ,
+"... I am a fake random machine. How would I know? "
 ]
 
 while True:
