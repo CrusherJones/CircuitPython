@@ -14,7 +14,7 @@ cc = ConsumerControl(usb_hid.devices)
 # This is so we could control volume, or pause things, etc. Bit out of scope for this... but cool possibility
 
 i2c = board.STEMMA_I2C()
-#nCreates the i2c connection we need so the gesture sensor talks to the board
+# Creates the i2c connection we need so the gesture sensor talks to the board
 apds = APDS9960(i2c)
 apds.enable_gesture = True
 # Lets us use gestures
@@ -48,17 +48,17 @@ BS = [
 ]
 
 GOOD = [
-"Drink eight glasses off water a day. "
+"Drink eight glasses off water a day. " ,
 "Travel with your own towel. "
 ]
 
 BAD = [
-"Buy that condo, sure!"
+"Buy that condo, sure!" ,
 "Invest in pets.com"
 ]
 
 ODD = [
-"Look I don't even know what month it is, man."
+"Look I don't even know what month it is, man." ,
 "... I am a fake random machine. How would I know?"
 ]
 # We could call this random BUT we don't want to confuse it with our random library. Try to avoid similar names!
@@ -81,14 +81,16 @@ while True:
         print("You swiped down for good advice.")
         boardpixel.fill(random.choice(colors))
         # This gives us a random color from our "colors" list
-        layout.write(random.choice(BS))
+        layout.write(random.choice(GOOD))
         # Writes to screen
         time.sleep(.2)
     elif gesture == 0x03:
         print("You swiped Left for bad advice.")
         boardpixel.fill(INDIGO)
+        layout.write(random.choice(BAD))
         time.sleep(.2)
     elif gesture == 0x04:
         print("You swiped Right for odd advice.")
         boardpixel.fill(GREEN)
+        layout.write(random.choice(ODD))
         time.sleep(.2)
