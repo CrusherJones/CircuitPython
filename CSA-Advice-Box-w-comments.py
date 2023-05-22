@@ -53,13 +53,13 @@ GOOD = [
 ]
 
 BAD = [
-"Buy that condo, sure!" ,
-"Invest in pets.com"
+"Buy that condo, sure! " ,
+"Invest in pets.com "
 ]
 
 ODD = [
-"Look I don't even know what month it is, man." ,
-"... I am a fake random machine. How would I know?"
+"Look I don't even know what month it is, man. " ,
+"... I am a fake random machine. How would I know? "
 ]
 # We could call this random BUT we don't want to confuse it with our random library. Try to avoid similar names!
 
