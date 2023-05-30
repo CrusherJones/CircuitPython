@@ -30,7 +30,7 @@ INDIGO = (75,0,130)
 colors = [ RED, REDDISH, BLONDE, BLACK, BLUE, BLUEY, BLONDE, GREEN, INDIGO]
 
 BS = [
-"FFS. " ,
+"Oh crikey. " ,
 "... delete that. "
 ]
 

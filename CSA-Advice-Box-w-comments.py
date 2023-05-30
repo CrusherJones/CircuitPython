@@ -43,7 +43,7 @@ colors = [ RED, REDDISH, BLONDE, BLACK, BLUE, BLUEY, BLONDE, GREEN, INDIGO]
 # A list of colors we can call
 
 BS = [
-"FFS. " ,
+"Oh crikey. " ,
 "... delete that. "
 ]
 
