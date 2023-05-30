@@ -41,7 +41,7 @@ GOOD = [
 
 BAD = [
 "Buy that condo, sure! " ,
-"Invest in pets.com "
+"Invest in pets.com. "
 ]
 
 ODD = [
@@ -53,21 +53,21 @@ while True:
     gesture = apds.gesture()
     if gesture == 0x01:
         print("You swiped 'Up' for BS")
-        layout.write(random.choice(BS))
+        layout.write("Here is your BS advice: " + random.choice(BS))
         boardpixel.fill(RED)
         time.sleep(.2)
     elif gesture == 0x02:
         print("You swiped down for good advice.")
         boardpixel.fill(random.choice(colors))
-        layout.write(random.choice(GOOD))
+        layout.write("Here is your good advice: " + random.choice(GOOD))
         time.sleep(.2)
     elif gesture == 0x03:
         print("You swiped Left for bad advice.")
         boardpixel.fill(INDIGO)
-        layout.write(random.choice(BAD))
+        layout.write("Here is your bad advice: " + random.choice(BAD))
         time.sleep(.2)
     elif gesture == 0x04:
         print("You swiped Right for odd advice.")
         boardpixel.fill(GREEN)
-        layout.write(random.choice(ODD))
+        layout.write("Here is your odd advice: " + random.choice(ODD))
         time.sleep(.2)
