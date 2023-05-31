@@ -13,3 +13,10 @@ QT PY RP2040 overview: https://learn.adafruit.com/adafruit-qt-py-2040/overview
 Info on formatting the QT PY RP2040: https://learn.adafruit.com/adafruit-qt-py-2040/circuitpython
 
 Download Mu: https://codewith.mu/en/download
+
+*Parts*
+
+Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor - https://www.adafruit.com/product/3595
+QT Py RP2040 – https://www.adafruit.com/product/4900
+Stemma QT JST SH 4-Pin cable (50mm) - https://www.adafruit.com/product/4399
+USB C Data Cable -  https://www.adafruit.com/product/4472
