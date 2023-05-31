@@ -8,3 +8,5 @@ The handout will be forthcoming, but the files (if you're playing along at home)
 QT PY RP2040 overview: https://learn.adafruit.com/adafruit-qt-py-2040/overview
 
 Info on formatting the QT PY RP2040: https://learn.adafruit.com/adafruit-qt-py-2040/circuitpython
+
+Download Mu: https://codewith.mu/en/download
