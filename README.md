@@ -1,4 +1,7 @@
 # CircuitPython
+
+![IMG_2818](https://github.com/CrusherJones/CircuitPython/assets/2374649/6cb213ba-730a-42f5-a93f-fb0450ad8f11)
+
 Bunch of CircuitPython code. Plunder away.
 
 The Advice box uses a QT PY RP2040 and an APDS-9960 sensor to give people advice... whether it is good or not is up to them, but it is something I use for teaching people coding in workshops.
