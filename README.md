@@ -18,16 +18,10 @@ Additional builds and ideas: https://imgur.com/a/ir4kp4A
 
 **Parts**
 
-Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor
-https://www.adafruit.com/product/3595
-
 [Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor](https://www.adafruit.com/product/3595 "Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor")
 
-QT Py RP2040 
-https://www.adafruit.com/product/4900
+[QT Py RP2040](https://www.adafruit.com/product/4900 "QT Py RP2040")
 
-Stemma QT JST SH 4-Pin cable (50mm) 
-https://www.adafruit.com/product/4399
+[Stemma QT JST SH 4-Pin cable (50mm)](https://www.adafruit.com/product/4399 "Stemma QT JST SH 4-Pin cable (50mm)")
 
-USB C Data Cable
-https://www.adafruit.com/product/4472
+[USB C Data Cable](https://www.adafruit.com/product/4472 "USB C Data Cable")
