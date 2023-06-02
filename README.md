@@ -1,8 +1,8 @@
 # Type it Like You Talk It - CircuitPython Workshop
 
-![IMG_2818](https://github.com/CrusherJones/CircuitPython/assets/2374649/6cb213ba-730a-42f5-a93f-fb0450ad8f11)
-
 Here's a bunch of CircuitPython code. Plunder away!
+
+![IMG_2818](https://github.com/CrusherJones/CircuitPython/assets/2374649/6cb213ba-730a-42f5-a93f-fb0450ad8f11)
 
 If you're reading this you've probably attended a Makerspace or hackathon with me, and you may have built an advice box there. The Advice box uses a QT PY RP2040 and an APDS-9960 sensor to give people advice... whether it is good or not is up to them, but it is something I use for teaching people coding in workshops.
 
