@@ -14,6 +14,8 @@ Info on formatting the QT PY RP2040: https://learn.adafruit.com/adafruit-qt-py-2
 
 Download Mu: https://codewith.mu/en/download
 
+Additional builds and ideas: https://imgur.com/a/ir4kp4A
+
 **Parts**
 
 Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor
