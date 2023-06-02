@@ -71,9 +71,13 @@ while True:
         print("You swiped Right for odd advice.")
         boardpixel.fill(GREEN)
         layout.write("Here is your odd advice: " + random.choice(ODD))
+        #Some variations and neat stuff below
+        #Uncomment line 76, save it, run the code on a microcontroller and see what happens
         #layout.write("\n")
         keyboard.send(Keycode.COMMAND, Keycode.A)
         time.sleep(2)
         #keyboard.send(Keycodee.DELETE)
+        #Uncomment line 79, save, and see what happens when you run the code
+        #If you did line 80, figure out what happened in line 79
         keyboard.send(Keycode.DELETE)
         time.sleep(.2)
