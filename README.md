@@ -1,6 +1,6 @@
 # Type it Like You Talk It - CircuitPython Workshop
 
-Here's a bunch of [CircuitPython](https://github.com/CrusherJones/CircuitPython/assets/2374649/6cb213ba-730a-42f5-a93f-fb0450ad8f11) code. Plunder away!
+Here's a bunch of [CircuitPython](https://circuitpython.org) code. Plunder away!
 
 ![IMG_2818](https://github.com/CrusherJones/CircuitPython/assets/2374649/6cb213ba-730a-42f5-a93f-fb0450ad8f11)
 
