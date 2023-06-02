@@ -70,4 +70,5 @@ while True:
         print("You swiped Right for odd advice.")
         boardpixel.fill(GREEN)
         layout.write("Here is your odd advice: " + random.choice(ODD))
+       #layout.write("\n")
         time.sleep(.2)
