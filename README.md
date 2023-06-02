@@ -21,6 +21,8 @@ Additional builds and ideas: https://imgur.com/a/ir4kp4A
 Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor
 https://www.adafruit.com/product/3595
 
+[I'm an inline-style link with title]([https://www.adafruit.com/product/3595] "Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor")
+
 QT Py RP2040 
 https://www.adafruit.com/product/4900
 
